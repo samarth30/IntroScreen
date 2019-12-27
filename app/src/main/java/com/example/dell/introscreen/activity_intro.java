@@ -2,10 +2,10 @@ package com.example.dell.introscreen;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.renderscript.ScriptIntrinsicResize;
-import android.support.design.widget.TabLayout;
-import android.support.v4.view.ViewPager;
-import android.support.v7.app.AppCompatActivity;
+
+import com.google.android.material.tabs.TabLayout;
+import androidx.viewpager.widget.ViewPager;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.animation.Animation;
@@ -42,9 +42,9 @@ public class activity_intro extends AppCompatActivity {
         tabindicator = findViewById(R.id.tab_indicator);
 
         final List<ScreenItem> mList = new ArrayList<>();
-        mList.add(new ScreenItem("Anytime Location","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.drawable.driver));
-        mList.add(new ScreenItem("Fast Delivery","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.drawable.meal));
-        mList.add(new ScreenItem("Easy","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.drawable.payment));
+        mList.add(new ScreenItem("Anytime Location","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.raw.mprogramming));
+        mList.add(new ScreenItem("Fast Delivery","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.raw.deliveryriding));
+        mList.add(new ScreenItem("Easy","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.raw.mfilecopying));
 
 
 
