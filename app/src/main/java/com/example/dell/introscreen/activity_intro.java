@@ -43,8 +43,13 @@ public class activity_intro extends AppCompatActivity {
 
         final List<ScreenItem> mList = new ArrayList<>();
         mList.add(new ScreenItem("Anytime Location","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.raw.mprogramming));
-        mList.add(new ScreenItem("Fast Delivery","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.raw.deliveryriding));
+        mList.add(new ScreenItem("Fast Delivery","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.raw.servicesrepair));
+        mList.add(new ScreenItem("Easy","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.raw.socialmeida));
+        mList.add(new ScreenItem("Easy","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.raw.devierymotorcycle));
+        mList.add(new ScreenItem("Easy","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.raw.cardriver));
+        mList.add(new ScreenItem("Easy","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.raw.mreactlogo));
         mList.add(new ScreenItem("Easy","it has the ability to to show the path of any building and it is very useful.it has the ability to to show the path of any building and it is very useful.",R.raw.mfilecopying));
+
 
 
 
