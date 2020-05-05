@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/samarth30/IntroScreen.svg)](http://hits.dwyl.com/samarth30/IntroScreen)
 # IntroScreen
 
 <img src="https://raw.githubusercontent.com/samarth30/samarth30.github.io/master/assets/img/work/introscreen/introscreen.png"/>
